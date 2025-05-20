@@ -1,0 +1,36 @@
+h1 {text-align: center;}
+h1.supertitulo{color: darkcyan; font-size: 50px;}
+p {font-size: 24px; text-align: justify;}
+
+ul li {
+  margin-bottom: 10px; 
+}
+
+#imagem {
+  border-radius: 30px;   
+  width: 400px;          
+  height: auto;          
+}
+
+ table {
+    width: 20%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+  }
+
+ th, td {
+    border: 2px solid #000000;
+    padding: 20px;
+    text-align: left;
+    
+    
+ }
+
+
+
+
+body {background-color: rgb(211, 242, 241);}
+
+a:hover{
+    color: red;
+}
